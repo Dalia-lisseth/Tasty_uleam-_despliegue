@@ -24,7 +24,7 @@ export default function Inicio() {
                   <span className="stat-label">Sedes</span>
                 </div>
                 <div className="stat-item">
-                  <span className="stat-number">50+</span>
+                  <span className="stat-number">60+</span>
                   <span className="stat-label">Platos</span>
                 </div>
                 <div className="stat-item">
