@@ -16,7 +16,7 @@ export default function Inicio() {
           <img src={tastyCentralImg} alt="Banner Comida" className="banner-img" />
           <div className="hero-overlay">
             <div className="hero-content">
-              <h1>Sabores que inspiran- compra tu corviche</h1>
+              <h1>Sabores que inspiran- PRUEBA</h1>
               <p>Descubre platos creados para aprender y disfrutar en cada una de nuestras sedes universitarias.</p>
               <div className="hero-stats">
                 <div className="stat-item">
